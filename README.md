@@ -9,7 +9,7 @@
 [Repo github back](https://github.com/Jerome-GBZ/GroMed-Server) <br />
 
 ## Notre site
-http://129.88.210.90:4200/welcome <br />
+http://129.88.210.90:4200/ <br />
 
 ## Utilisateur
 julie@gmail.com - Julie <br />
