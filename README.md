@@ -29,6 +29,6 @@ pierre@gmail.com - Pierre <br />
 [Modèle de tache.kxml.zip](https://github.com/Jerome-GBZ/GroMed/files/10572877/Modele.de.tache.kxml.zip)
 
 ## Présentation slide (Format PowerPoint)
-[GroMed.pptx](https://github.com/Jerome-GBZ/GroMed/files/10572791/GroMed.1.pptx)
+[GroMed.pptx](https://github.com/Jerome-GBZ/GroMed/files/10573249/GroMed.2.pptx)
 
 
