@@ -8,6 +8,12 @@
 [Repo github front](https://github.com/Jerome-GBZ/GroMed-Front) <br />
 [Repo github back](https://github.com/Jerome-GBZ/GroMed-Server) <br />
 
+## Notre site
+http://129.88.210.90:4200/welcome <br />
+
+## Utilisateur
+julie@gmail.com - Julie <br />
+paul@gmail.com - Paul <br />
 
 ![Home page](/src/Home.png "Home")
 ![Shop page](/src/Shop.png "Shop")
