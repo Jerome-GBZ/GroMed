@@ -23,7 +23,9 @@ pierre@gmail.com - Pierre <br />
 [Livrable BDI.pdf](https://github.com/Jerome-GBZ/GroMed/files/10572823/Livrable.BDI.pdf)
 
 ## Notre modèle de tâche
-![image](https://user-images.githubusercontent.com/58702474/216432687-29b31313-1a19-4433-aec8-def2a17ee007.png)
+
+**Sous format kxml**
+[Modèle de tache.kxml.zip](https://github.com/Jerome-GBZ/GroMed/files/10572877/Modele.de.tache.kxml.zip)
 
 ## Présentation slide (Format PowerPoint)
 [GroMed (1).pptx](https://github.com/Jerome-GBZ/GroMed/files/10572791/GroMed.1.pptx)
