@@ -12,8 +12,8 @@
 http://129.88.210.90:4200/ <br />
 
 ## Utilisateur
-julie@gmail.com - Julie <br />
-paul@gmail.com - Paul <br />
+esme@gmail.com - Esme <br />
+pierre@gmail.com - Pierre <br />
 
 ![Home page](/src/Home.png "Home")
 ![Shop page](/src/Shop.png "Shop")
